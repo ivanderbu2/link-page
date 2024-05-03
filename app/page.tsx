@@ -43,7 +43,7 @@ export default function Home() {
           </div>
 
           <div className="absolute bottom-0">
-            <a href="https://github.com/ivanderbu2/linktree" target="_blank">
+            <a href="https://github.com/ivanderbu2/link-page" target="_blank">
             Create your link page
             </a>
           </div>

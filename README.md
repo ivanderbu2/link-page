@@ -1,3 +1,35 @@
+# Link page - Next.js linktree
+
+This project is a simple link tree app which you can host for free on [Vercel](https://vercel.com).
+
+Demo site: [link-page-demo.vercel.app](https://link-page-demo.vercel.app)
+
+## How to customize
+
+First you'll want to fork this repository.
+
+All the links are located in `app/lib/config.ts` file. 
+Also title, subtitle and avatar alt title are in the same file.
+
+In order to change avatar just replace file `public/avatar.png` with your own version.
+
+## How to host on Vercel
+
+This process takes one minute, after that whenever you change your repository it'll be deployed on autopilot.
+
+### Steps
+
+1. Open your Vercel account
+2. Click **Add new** and choose **Project**
+3. Import your version of link page repository
+4. Choose Project name and hit **Deploy**
+
+That's it. Your project will be hosted on vercel.app domain which is high authority domain (DA 91)
+
+Video tutorial (you only need first 2 minutes): [https://www.youtube.com/watch?v=AiiGjB2AxqA](https://www.youtube.com/watch?v=AiiGjB2AxqA)
+
+## Next.js Readme
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
